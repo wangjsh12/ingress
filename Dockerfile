@@ -1,1 +1,3 @@
-From quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.30.0
+From k8s.gcr.io/coredns:1.6.2
+
+MAINTAINER wjson@qq.com
